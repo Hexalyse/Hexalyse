@@ -1,16 +1,15 @@
+<!-- List Of Websites-->
+[twitter]: https://www.twitter.com/hexalyse
+[github]: https://www.github.com/hexalyse
+
 ### Hi there 👋
 
-<!--
-**Hexalyse/Hexalyse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer, Life Hacker & Linux Enthusiast
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on various projects in JavaScript or Python
+- 🌱 I’m currently learning to use Ghidra better
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="hexalyse | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="hexalyse | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
