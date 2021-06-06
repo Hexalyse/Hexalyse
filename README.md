@@ -2,7 +2,7 @@
 [twitter]: https://www.twitter.com/hexalyse
 [github]: https://www.github.com/hexalyse
 
-[![Hexalyse's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexalyse&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hexalyse's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexalyse&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Hi there 👋
