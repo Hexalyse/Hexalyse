@@ -11,8 +11,3 @@ I'm a Software Developer, Life Hacker & Linux Enthusiast
 
 - 🔭 I’m currently working on various projects in JavaScript or Python
 - 🌱 I’m currently learning to use Ghidra better
-
-### Connect with me:
-
-[<img align="left" alt="hexalyse | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="hexalyse | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
