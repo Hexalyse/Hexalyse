@@ -10,4 +10,4 @@
 I'm a Software Developer, Life Hacker & Linux Enthusiast
 
 - 🔭 I’m currently working on various projects in JavaScript or Python
-- 🌱 I’m currently learning KeystoneJS
+- 🌱 I’m currently learning Strapi
