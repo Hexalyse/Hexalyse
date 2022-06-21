@@ -9,5 +9,5 @@
 
 I'm a Software Developer, Life Hacker & Linux Enthusiast
 
-- 🔭 I’m currently working on various projects in JavaScript or Python
-
+- 🔭 Currently working on various projects in JavaScript, TypeScript and Python
+- 🌱 Learning Rust
