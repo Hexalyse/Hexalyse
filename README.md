@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-I'm a Software Developer, Life Hacker & Linux Enthusiast
+I'm a Software Developer & Linux Enthusiast
 
 - 🔭 Currently working on various projects in JavaScript, TypeScript and Python
 - 🌱 Learning Rust
