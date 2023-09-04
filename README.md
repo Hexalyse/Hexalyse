@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-I'm a Software Developer & Linux Enthusiast
+I'm a Software Developer, Devops & Linux Enthusiast
 
 - 🔭 Currently working on various projects in JavaScript, TypeScript and Python
 - 🌱 Learning the new App router of Next.JS and having a blast with it!
