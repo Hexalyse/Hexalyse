@@ -10,4 +10,4 @@
 I'm a Software Developer & Linux Enthusiast
 
 - 🔭 Currently working on various projects in JavaScript, TypeScript and Python
-- 🌱 Learning Rust
+- 🌱 Learning the new App router of Next.JS and having a blast with it!
